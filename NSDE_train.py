@@ -4,6 +4,12 @@
 Created on Sat Mar 29 12:31:04 2025
 
 @author: lukesnow
+
+Trains a basic one-dimensional neural SDE to approximate a deterministic quadratic growth path.
+
+TODO: extend to more sophisticated setting:
+    - approximate path distribution rather than deterministic path
+    - utilize distributional loss metric rather and L2
 """
 
 ################################
