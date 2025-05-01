@@ -10,6 +10,7 @@ Trains a basic one-dimensional neural SDE to approximate a deterministic quadrat
 TODO: extend to more sophisticated setting:
     - approximate path distribution rather than deterministic path
     - utilize distributional loss metric rather and L2
+    - possibly: Schrodinger-bridge
 """
 
 ################################
